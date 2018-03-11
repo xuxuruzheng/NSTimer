@@ -13,9 +13,6 @@
 /**
  * 这里讲述了NSTimer的使用
  * 手动将timer加载到runloop中的方法在AppDelegate中
- * 代码是从：http://www.jianshu.com/p/3ccdda0679c1 来的
- * 如果看不懂的话可以参照这篇文章！
- *
  */
 
 @interface ViewController ()
