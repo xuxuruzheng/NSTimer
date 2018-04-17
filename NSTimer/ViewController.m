@@ -33,7 +33,7 @@
     [_button addTarget:self action:@selector(kaiShiJiShi:) forControlEvents:(UIControlEventTouchUpInside)];
     [self.view addSubview:_button];
     
-
+    UILabel *label = [[UILabel alloc]init];
     
 }
 - (void)kaiShiJiShi:(UIButton *)sender {
